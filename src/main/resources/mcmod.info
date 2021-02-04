@@ -1,0 +1,16 @@
+[
+{
+  "modid": "otter",
+  "name": "The Otter Kingdom",
+  "description": "The Otter Kingdom is a WIP that adds in some otter mobs.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TwilightKokoro (BMB0901)"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
